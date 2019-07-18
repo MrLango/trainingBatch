@@ -1,1 +1,2 @@
 # trainingBatch
+#jijei
